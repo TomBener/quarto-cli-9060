@@ -1,0 +1,10 @@
+title: A Quarto Example
+author: Author Name
+id-number: 230106
+major: Computer Science
+format:
+  pdf:
+    template-partials:
+      - before-body.tex # Working
+      # - title.tex # Not working
+    # keep-tex: true
